@@ -10,3 +10,6 @@ Here are some resources:
 
 Here is a timer we can use for staring pairing:
 https://double-trouble.wielo.co/
+
+Initial configuration of eslint we created during our first session:
+https://github.com/haraldreingruber/spider-covid-19-viz-3d/tree/feature/linting
