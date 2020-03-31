@@ -112,7 +112,9 @@ Does not seem to save changes
 
 22:39  ~ Installed, but not working
 
-
+## 2020-03-30 - Evening Session
+### DateVer/CalVer (instead of SemVer)
+- https://calver.org/
 
 
 
