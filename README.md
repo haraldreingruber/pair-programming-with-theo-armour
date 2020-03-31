@@ -2,8 +2,13 @@
 
 This repo will be used for discussing and prioritizing collaboration topics.
 
+## 2020-03-30 - Evening Session
+### DateVer/CalVer (instead of SemVer)
+- https://calver.org/
 
-## 2020-03-30
+
+
+## 2020-03-30 - Morning Session
 
 ### Mostly Harald
 
@@ -111,10 +116,6 @@ Does not seem to save changes
 #### ESLint in VS Code
 
 22:39  ~ Installed, but not working
-
-## 2020-03-30 - Evening Session
-### DateVer/CalVer (instead of SemVer)
-- https://calver.org/
 
 
 
