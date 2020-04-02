@@ -10,6 +10,7 @@ This repo will be used for discussing and prioritizing collaboration topics.
 > If it hurts, do it more often.
 
 - https://jsonbox.io/
+- force ESLint formatter: https://github.com/microsoft/vscode-eslint/issues/417#issuecomment-566209216
 
 ## 2020-03-31
 
