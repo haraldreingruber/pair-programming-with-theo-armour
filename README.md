@@ -5,7 +5,9 @@
 
 This repo will be used for discussing and prioritizing collaboration topics.
 
-## 2020-03-31 - Evening Session
+## 2020-04-02
+
+## 2020-03-31
 
 Links to Harald's "Google Summer of Code" proposals:
 - Blender: https://docs.google.com/document/d/1jhj93fujGBkRm0z1FdE2_MOWuOOgKerYJdjSEYEooRA/edit?usp=sharing
