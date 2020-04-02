@@ -7,6 +7,8 @@ This repo will be used for discussing and prioritizing collaboration topics.
 
 ## 2020-04-02
 
+> If it hurts, do it more often.
+
 ## 2020-03-31
 
 Links to Harald's "Google Summer of Code" proposals:
