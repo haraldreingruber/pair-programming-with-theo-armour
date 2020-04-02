@@ -9,6 +9,8 @@ This repo will be used for discussing and prioritizing collaboration topics.
 
 > If it hurts, do it more often.
 
+- https://jsonbox.io/
+
 ## 2020-03-31
 
 Links to Harald's "Google Summer of Code" proposals:
