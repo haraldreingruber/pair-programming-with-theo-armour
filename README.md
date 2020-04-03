@@ -8,6 +8,7 @@ This repo will be used for discussing and prioritizing collaboration topics.
 ## 2020-04-02
 
 > If it hurts, do it more often.
+>
 > *-- Jez Humble* from https://continuousdelivery.com/
 
 - https://jsonbox.io/
