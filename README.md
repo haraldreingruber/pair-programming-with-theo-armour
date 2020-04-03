@@ -8,6 +8,7 @@ This repo will be used for discussing and prioritizing collaboration topics.
 ## 2020-04-02
 
 > If it hurts, do it more often.
+> *-- Martin Fowler?* https://martinfowler.com/bliki/FrequencyReducesDifficulty.html
 
 - https://jsonbox.io/
 - force ESLint formatter: https://github.com/microsoft/vscode-eslint/issues/417#issuecomment-566209216
