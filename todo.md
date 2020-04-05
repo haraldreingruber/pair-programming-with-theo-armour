@@ -8,6 +8,7 @@
 1. Automate Covid-19 Viz deployment
 1. Some feature/improvement using three.js
     - initial camera position from browser GPS position (+ animation?)
+    - different vizualization: https://codepen.io/Flamov/pen/MozgXb?editors=0010
     - improve Map of http://foodcoops.at
 
 ## Harald's Projects 
