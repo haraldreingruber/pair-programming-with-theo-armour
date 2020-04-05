@@ -7,6 +7,7 @@
 1. Write Covid-19-Viz deployment checklist 
 1. Automate Covid-19 Viz deployment
 1. Some feature/improvement using three.js
+    - initial camera position from browser GPS position (+ animation?)
     - improve Map of http://foodcoops.at
 
 ## Harald's Projects 
