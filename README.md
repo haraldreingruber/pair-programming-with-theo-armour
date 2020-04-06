@@ -5,6 +5,24 @@
 
 This repo will be used for discussing and prioritizing collaboration topics.
 
+## 2020-04-02
+
+> If it hurts, do it more often.
+>
+> *-- Jez Humble* from https://continuousdelivery.com/
+
+- https://jsonbox.io/
+- force ESLint formatter: https://github.com/microsoft/vscode-eslint/issues/417#issuecomment-566209216
+
+## 2020-03-31
+
+Links to Harald's "Google Summer of Code" proposals:
+- Blender: https://docs.google.com/document/d/1jhj93fujGBkRm0z1FdE2_MOWuOOgKerYJdjSEYEooRA/edit?usp=sharing
+- Inkskape: https://docs.google.com/document/d/1Jf-NruuNOqh-_lIeqLbIvhRfjJs3BmuFamjDeGeu-rA/edit?usp=sharing
+
+Interesting (Synced) Mob-Programming timer (could be also used for Pair-Programming):
+- https://github.com/mrozbarry/mobtime
+
 ## 2020-03-30 - Evening Session
 
 ### DateVer/CalVer (instead of SemVer)
