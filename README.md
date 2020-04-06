@@ -10,6 +10,8 @@ This repo will be used for discussing and prioritizing collaboration topics.
 * Move this repo to an organization?
 - Adrian Bolboaca - Remote Pair-Programming: https://www.youtube.com/channel/UC7H7P2tu2i3Wnz-ZBdnO13Q
 
+- Mr.Doob Approves Rules: https://github.com/zz85/mrdoobapproves/blob/gh-pages/mdcs_eslint.js 
+
 
 ## 2020-04-02
 
