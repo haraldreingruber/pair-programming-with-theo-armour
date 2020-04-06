@@ -8,6 +8,7 @@ This repo will be used for discussing and prioritizing collaboration topics.
 ## 2020-04-06
 
 * Move this repo to an organization?
+- Adrian Bolboaca - Remote Pair-Programming: https://www.youtube.com/channel/UC7H7P2tu2i3Wnz-ZBdnO13Q
 
 
 ## 2020-04-02
