@@ -2,25 +2,46 @@
 
 ## Theo's Projects
 
-1. (in progress) Get Eslint working on Theo's machine and VS Code
-1. Fix realtive like issues
-1. Write Covid-19-Viz deployment checklist
-## Theo's Projects
-[Todo](#todo.md)
+### In progress
 
-1. (in progress) Get Eslint working on Theo's machine and VS Code
-    - not avaliable for auto-format
-1. (in progress) Fix relative link issues
-1. Write Covid-19-Viz deployment checklist
-1. Automate Covid-19 Viz deployment
-1. Some feature/improvement using three.js
-    - initial camera position from browser GPS position (+ animation?)
-    - different vizualization: https://codepen.io/Flamov/pen/MozgXb?editors=0010
-    - improve Map of http://foodcoops.at
+_Actions wanted_
+
+* Get Eslint working on Theo's machine and VS Code
+    * not available for auto-format
+
+
+### In progress
+
+_Actions if there are matters of interest_
+
+* Write Covid-19-Viz deployment checklist << in progress. Done maybe??
+* Automate Covid-19 Viz deployment << in progress. Done maybe??
+* (in progress) Fix relative link issues << ditto
+
+
+### Future efforts / To be discussed
+
+COVID-19
+
+	* initial camera position from browser GPS position (+ animation?)
+	* different visualization: https://codepen.io/Flamov/pen/MozgXb?editors=0010
+
+General Three.js
+
+_Preparing "Cookbook" examples_
+
+* Improving 3D Globe visualization
+* Improving Three.js ```div``` popups user experience
+
+
+Sharing with Harald
+
+	* improve Map of http://foodcoops.at
+
+
 
 ## Harald's Projects
 
-## Harald's Projects
 1. Submit 2 small bug-fixes or improvements to Inkscape
 1. Figure out who developer do (or can do) cpu and memory usage profiling (on different platforms?) and improve the developer documentation for Blender
 1. Foodsoft project: https://github.com/foodcoops/foodsoft/pull/716

@@ -5,6 +5,11 @@
 
 This repo will be used for discussing and prioritizing collaboration topics.
 
+## 2020-04-06
+
+* Move this repo to an organization?
+
+
 ## 2020-04-02
 
 > If it hurts, do it more often.
