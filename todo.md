@@ -43,6 +43,9 @@ Sharing with Harald
 ## Harald's Projects
 
 1. Submit 2 small bug-fixes or improvements to Inkscape
+    - tba
 1. Figure out who developer do (or can do) cpu and memory usage profiling (on different platforms?) and improve the developer documentation for Blender
+    - Issue I am working on: https://developer.blender.org/T70016
+    - Building Blender: https://wiki.blender.org/wiki/Building_Blender
 1. Foodsoft project: https://github.com/foodcoops/foodsoft/pull/716
     - Demo Server: https://foodcoops.github.io/demo/
