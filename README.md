@@ -1,4 +1,4 @@
-[PP]( #README.md )
+[to do]( #todo.md )
 
 
 # pair-programming-with-theo-armour
@@ -6,7 +6,9 @@
 This repo will be used for discussing and prioritizing collaboration topics.
 
 ## 2020-03-30 - Evening Session
+
 ### DateVer/CalVer (instead of SemVer)
+
 - https://calver.org/
 
 
