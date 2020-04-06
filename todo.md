@@ -5,15 +5,18 @@
 ### In progress
 
 _Actions wanted_
-
-* Get Eslint working on Theo's machine and VS Code
-    * not available for auto-format
+    * tbd
 
 
-### In progress
+### Already improved, but not completely done
 
 _Actions if there are matters of interest_
 
+* (done) Get Eslint working on Theo's machine and VS Code
+    * (fixed) not available for auto-format
+    * Review and refine Theo's workflow
+    * Add Rules
+    * Add Shortcuts?
 * Write Covid-19-Viz deployment checklist << in progress. Done maybe??
 * Automate Covid-19 Viz deployment << in progress. Done maybe??
 * (in progress) Fix relative link issues << ditto
