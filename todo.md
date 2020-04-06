@@ -49,3 +49,6 @@ Sharing with Harald
     - Building Blender: https://wiki.blender.org/wiki/Building_Blender
 1. Foodsoft project: https://github.com/foodcoops/foodsoft/pull/716
     - Demo Server: https://foodcoops.github.io/demo/
+
+Design Collaboration Projects
+    - tbd
