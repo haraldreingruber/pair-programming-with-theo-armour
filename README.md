@@ -7,6 +7,8 @@ This repo will be used for discussing and prioritizing collaboration topics.
 
 ## 2020-04-08
 
+Harald's Blog Post about Week 1 of Pair-Programming Tour: https://dev.to/harald3dcv/remote-mob-programming-hunter-industries-18ac
+
 Updates since Monday:
 
 ### [Cookbook]( https://ladybug-tools.github.io/spider-covid-19-viz-3d/cookbook )
