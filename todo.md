@@ -36,10 +36,15 @@ _Preparing "Cookbook" examples_
 * Improving 3D Globe visualization
 * Improving Three.js ```div``` popups user experience
 
+Other
+
+* Create Three.js "inworld" background for video chats
+
 
 Sharing with Harald
 
-	* improve Map of http://foodcoops.at
+	* improve Map of http://foodcoops.at ??
+
 
 
 

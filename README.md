@@ -5,12 +5,32 @@
 
 This repo will be used for discussing and prioritizing collaboration topics.
 
+## 2020-04-08
+
+Updates since Monday:
+
+### [Cookbook]( https://ladybug-tools.github.io/spider-covid-19-viz-3d/cookbook )
+
+* Demos of the various modules used to build the viewer
+
+### [Archive Gallery 2]( https://ladybug-tools.github.io/spider-covid-19-viz-3d/dev/covid-19-viz-3d-archive )
+
+* Files for every daily project update since 200-03-19. Some files are better than others.
+
+### [Archive Gallery 1]( https://ladybug-tools.github.io/spider-covid-19-viz-3d/dev/covid-19-statistics-on-globe )
+
+* Files from the first day of the project
+
+No work on ESLint yet
+
+
+
 ## 2020-04-06
 
 * Move this repo to an organization?
 - Adrian Bolboaca - Remote Pair-Programming: https://www.youtube.com/channel/UC7H7P2tu2i3Wnz-ZBdnO13Q
 
-- Mr.Doob Approves Rules: https://github.com/zz85/mrdoobapproves/blob/gh-pages/mdcs_eslint.js 
+- Mr.Doob Approves Rules: https://github.com/zz85/mrdoobapproves/blob/gh-pages/mdcs_eslint.js
 
 
 ## 2020-04-02
