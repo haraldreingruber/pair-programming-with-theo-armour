@@ -9,6 +9,7 @@ This repo will be used for discussing and prioritizing collaboration topics.
 
 - Links for the curve vizualization:
     - Bezier Curve: https://threejs.org/docs/#api/en/extras/curves/QuadraticBezierCurve3
+    - Raycaster: https://threejs.org/docs/#api/en/core/Raycaster
     - Line Material: https://threejs.org/examples/#webgl_lines_colors
     - Some Article: https://medium.com/@xiaoyangzhao/drawing-curves-on-webgl-globe-using-three-js-and-d3-draft-7e782ffd7ab
 
