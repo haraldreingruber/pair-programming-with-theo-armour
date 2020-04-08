@@ -7,6 +7,11 @@ This repo will be used for discussing and prioritizing collaboration topics.
 
 ## 2020-04-08
 
+- Links for the curve vizualization:
+    - Bezier Curve: https://threejs.org/docs/#api/en/extras/curves/QuadraticBezierCurve3
+    - Line Material: https://threejs.org/examples/#webgl_lines_colors
+    - Some Article: https://medium.com/@xiaoyangzhao/drawing-curves-on-webgl-globe-using-three-js-and-d3-draft-7e782ffd7ab
+
 Harald's Blog Post about Week 1 of Pair-Programming Tour: https://dev.to/harald3dcv/remote-mob-programming-hunter-industries-18ac
 
 Updates since Monday:
