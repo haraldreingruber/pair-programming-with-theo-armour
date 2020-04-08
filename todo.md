@@ -62,7 +62,7 @@ Design Collaboration Projects
 
 - Visualize locations of Remote-Pair-Programming Partners on the globe with three.js
     - more general: Visualize locations/connections of people on a Globe
-    - [ ] visualize globe
+    - [x] visualize globe
     - [ ] visualize location (pin?)
     - [ ] visualize a 3D curve, between 2 location
     - [ ] add location via address or from phone address book
