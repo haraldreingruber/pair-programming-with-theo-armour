@@ -54,4 +54,4 @@ Sharing with Harald
     - Demo Server: https://foodcoops.github.io/demo/
 
 Design Collaboration Projects
-    - tbd
+    - Visualize locations of Remote-Pair-Programming Partners on the globe with three.js
