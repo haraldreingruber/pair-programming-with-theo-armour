@@ -59,4 +59,14 @@ Sharing with Harald
     - Demo Server: https://foodcoops.github.io/demo/
 
 Design Collaboration Projects
-    - Visualize locations of Remote-Pair-Programming Partners on the globe with three.js
+
+- Visualize locations of Remote-Pair-Programming Partners on the globe with three.js
+    - more general: Visualize locations/connections of people on a Globe
+    - [ ] visualize globe
+    - [ ] visualize location (pin?)
+    - [ ] visualize a 3D curve, between 2 location
+    - [ ] add location via address or from phone address book
+    - [ ] klick on globe to add location
+    - [ ] show more information on mouse-over/klick (picture, street view, text?)
+    - [ ] 
+	
